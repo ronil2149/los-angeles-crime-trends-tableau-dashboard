@@ -72,7 +72,7 @@ The original project narrative highlighted:
 - persistent high-volume LAPD divisions including 77th Street and Southeast.
 - young adults (especially ages 20–34) as a major victim group.
 - a post-lockdown rise in recorded incidents.
-- a dashboard clearance rate of **8.97%**, with **90,171 solved** and **915,028 solved** incidents in the archived snapshot.
+- a dashboard clearance rate of **8.97%**, with **90,171 solved** and **915,028 unsolved** incidents in the archived snapshot.
 
 Because the `.twbx` calculated fields are no longer available, the repository clearly separates **original Tableau findings** from figures that can be recomputed directly from the archived CSV.
 
