@@ -2,6 +2,18 @@
 
 **🔗 Live Tableau Dashboard:** [https://public.tableau.com/app/profile/ronil.ghoghari3778/viz/Final_Project_Code_Blooded/Dashboard1?publish=yes](https://public.tableau.com/app/profile/ronil.ghoghari3778/viz/Final_Project_Code_Blooded/Dashboard1?publish=yes)
 
+## 📊 Dashboard Preview
+
+### Detailed Crime Analysis
+
+![Crime Analysis Dashboard](assets/dashboard-detailed-insights.png)
+
+### KPI & Crime Profile Overview
+
+![Crime KPI Dashboard](assets/dashboard-kpi-overview.png)
+
+The live Tableau dashboard includes interactive date, crime-type and Top-N controls for exploring the data dynamically.
+
 A **Business Intelligence and data-visualization project** exploring Los Angeles crime patterns from 2020 onward using more than one million LAPD incident records. The project uses **Tableau** to analyze crime categories, geographic hotspots, time trends, victim demographics and case-status patterns through an interactive dashboard.
 
 > I independently developed this project as coursework for a Business Intelligence course. The original `.twbx` workbook is no longer available, so this repository preserves the project as a documented case study and links directly to the original working Tableau Public dashboard.
@@ -55,11 +67,12 @@ The raw CSV is approximately **255 MB** and is intentionally excluded from GitHu
 
 The original project narrative highlighted:
 
-- vehicle theft and assault among the dominant crime categories;
-- persistent high-volume LAPD divisions including 77th Street and Southeast;
-- young adults (especially ages 20–34) as a major victim group;
-- a post-lockdown rise in recorded incidents;
-- an original dashboard clearance/solved KPI of roughly 25%.
+- **Vehicle - Stolen** was the most frequent crime category with **115,246 incidents**.
+- **Afternoon** was the highest-volume time period with **327,406 incidents**, followed by Evening with **314,140**.
+- persistent high-volume LAPD divisions including 77th Street and Southeast.
+- young adults (especially ages 20–34) as a major victim group.
+- a post-lockdown rise in recorded incidents.
+- a dashboard clearance rate of **8.97%**, with **90,171 solved** and **915,028 solved** incidents in the archived snapshot.
 
 Because the `.twbx` calculated fields are no longer available, the repository clearly separates **original Tableau findings** from figures that can be recomputed directly from the archived CSV.
 
