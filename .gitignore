@@ -1,0 +1,15 @@
+# Large source data / Tableau extracts
+*.csv
+*.hyper
+*.tfl
+*.tflx
+
+# Tableau workbook backup/temp files
+*.twb~
+*.twbx~
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
