@@ -34,4 +34,4 @@ The archived data contains several status categories rather than one explicit bo
 - **Juv Other:** 1,867
 - **UNK:** 7
 
-The earlier course presentation summarized the clearance rate as roughly 25%, but the surviving final Tableau Public dashboard reports a **clearance rate of 8.97%**, based on **90,171 solved** and **915,028 unsolved** incidents. Because the packaged .twbx workbook and its calculated-field formula are no longer available, this repository preserves the value displayed by the final live dashboard..
+The earlier course presentation summarized the clearance rate as roughly 25%, but the surviving final Tableau Public dashboard reports a **clearance rate of 8.97%**, based on **90,171 solved** and **915,028 unsolved** incidents. Because the packaged .twbx workbook and its calculated-field formula are no longer available, this repository preserves the value displayed by the final live dashboard.
